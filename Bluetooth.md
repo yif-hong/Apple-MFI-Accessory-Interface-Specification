@@ -78,7 +78,7 @@ iOS设备和Mac计算机使用附件的设备类别用于UI或配置特定功能
 #### 设备ID配置文件 DID
 
 - 支持1.3版或更高版本的蓝牙设备ID配置文件。
-- 使用Bluetooth SIG指定的Assigned Numbers规范中的公司标识符作为其供应商ID值（VID）。请参阅http://www.bluetooth.org/Technical/AssignedNumbers/identifiers.htm（要求登录）。如果制造商没有Bluetooth SIG公司标识符，则蓝牙HID配置文件附件可以使用由USB实施者论坛（USB-IF在http://www.usb.org）分配的VID。
+- 使用Bluetooth SIG指定的Assigned Numbers规范中的公司标识符作为其供应商ID值（VID）。请参阅http://www.bluetooth.org/Technical/AssignedNumbers/identifiers.htm （要求登录）。如果制造商没有Bluetooth SIG公司标识符，则蓝牙HID配置文件附件可以使用由USB实施者论坛（USB-IF在 http://www.usb.org ） 分配的VID。
 - 将其VID值用于最终产品制造商。
 - 不使用Bluetooth SIG分配给Apple的公司ID或USB实施者论坛分配给Apple的供应商ID。
 - 使用“供应商ID源”字段标识分配了“供应商ID”字段值中使用的值的组织。请参阅蓝牙设备ID配置文件规范的第5.6节。
